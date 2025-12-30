@@ -5,3 +5,7 @@ This project demonstrates:
 - Apache web server setup
 - Security group configuration
 - Linux troubleshooting basics
+## Features
+- Checks CPU, memory, disk usage
+- Automatically checks Apache service
+- Displays warning messages for high usage
